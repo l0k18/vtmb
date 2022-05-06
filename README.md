@@ -1,6 +1,6 @@
 # vtmb
 
-## Installation scripts for Vampire - The Masquerade: Bloodlines
+## Installation scripts to run "Vampire - The Masquerade: Bloodlines" on Linux
 
 At the current time this is uploaded, the following screenshot is what you 
 will see in your [gog.com](https://gog.com) account when you buy this:
