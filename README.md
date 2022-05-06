@@ -1,5 +1,7 @@
 # vtmb
 
+## Installation scripts for Vampire - The Masquerades: Bloodlines
+
 At the current time this is uploaded, the following screenshot is what you 
 will see in your [gog.com](https://gog.com) account when you buy this:
 
@@ -26,5 +28,8 @@ Please file an issue on this repository in case GOG makes an updated set of
 installer files, it will most likely mainly be the patches and will likely 
 simply work just by changing filenames and recomputing their hashes. This 
 works for now, as at 6 May 2022.
+
+If you have a fix and a PR please put it up and l0k18 will gladly test and 
+merge it for you.
 
 # Enjoy!
