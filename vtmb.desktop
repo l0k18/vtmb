@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Vampire - The Masquerade: Bloodlines
-Exec=$VTMB/VTM\ -\ Bloodlines/start.sh
-Icon=vtmb
+Exec=PWD/VTMB/start.sh
+Icon=PWD/vtmb.png
 Terminal=false
 Type=Application
 Categories=Game;

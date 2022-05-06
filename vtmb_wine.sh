@@ -584,6 +584,9 @@ rm -rf "$WINEPREFIX/drive_c/users/$WINEUSER"
 
 echo "Done."
 
+cat vtmb.desktop|sed 's?PWD?'`pwd`'?'>$HOME/.local/share/applications/vtmb.desktop
+cp vtmb.png $HOME/.local/share/icons/
+
 if [ "$MAKEARCHIVE" == "xz" ] ; then
 	echo "Building .tar.xz archive (this will take a while)"
 	if (! tar -cf "$WINEWRAP_BUILDPATH/$WRAP_DIRNAME_DEF-Linux.tar.xz" -C "$WINEWRAP_BUILDPATH" "$WRAP_DIRNAME" --xz) ; then
