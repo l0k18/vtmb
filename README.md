@@ -1,6 +1,6 @@
 # vtmb
 
-## Installation scripts for Vampire - The Masquerades: Bloodlines
+## Installation scripts for Vampire - The Masquerade: Bloodlines
 
 At the current time this is uploaded, the following screenshot is what you 
 will see in your [gog.com](https://gog.com) account when you buy this:
